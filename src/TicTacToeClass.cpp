@@ -23,9 +23,9 @@ TicTacToeGame::TicTacToeGame(){
 
     }
 
-bool TicTacToeGame::done(){
+bool TicTacToeGame::done(){ // CE - Hard-coded constants all throughout this thing
     //check x's
-    if ((gameBoard[1][1] == 'x') && (gameBoard[1][2] == 'x' ) && (gameBoard[1][3] == 'x')){
+    if ((gameBoard[1][1] == 'x') && (gameBoard[1][2] == 'x' ) && (gameBoard[1][3] == 'x')){ 
         winningPlayer = 'x';
         return true;
 

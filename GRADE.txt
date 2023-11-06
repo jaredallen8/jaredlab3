@@ -1,8 +1,8 @@
-Grader's name:
-grader's initials(used to mark comments in your code):
-Grader's email:
+Grader's name: Cade Edney
+grader's initials(used to mark comments in your code): CE
+Grader's email: c.edney@wustl.edu
 
-Grade: /100
+Grade: 91/100
 
 Deductions: 
 The grader may leave comments throughout your graded code files. 
@@ -10,13 +10,14 @@ Please search for the grader's initials above within you lab to find
 additional comments and feedback.
 
 ReadMe feedback and deductions:
-
+Good ReadMe
 
 Code review feedback and deductions:
-
+-3: Didn't include vector or string, caused compilation errors
+-3: Hard-coded constants (TicTacToeClass.cpp - line 26)
 
 Compilation and testing feedback and deductions:
-
+-3: Failed test of incorrect game name, should check "TicTacToe" is passed in
 
 Extra credit:
 
